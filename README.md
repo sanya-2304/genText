@@ -2,9 +2,9 @@
 GenText is a lightweight, AI-powered text generation tool that leverages Mistral-7B to generate intelligent responses based on user prompts. Whether you need explanations, content generation, or structured text, GenText delivers high-quality results with ease.
 
 # Features:
-✅ AI-Powered Responses – Generates accurate and coherent text based on prompts.
-✅ Mistral-7B Integration – Uses a powerful LLM for natural language understanding.
-✅ Customizable Outputs – Control response length, creativity, and structure.
+✅ AI-Powered Responses – Generates accurate and coherent text based on prompts. /n
+✅ Mistral-7B Integration – Uses a powerful LLM for natural language understanding. /n
+✅ Customizable Outputs – Control response length, creativity, and structure. /n
 ✅ Efficient & Scalable – Lightweight and adaptable for various use cases.
 
 # Use Cases:
